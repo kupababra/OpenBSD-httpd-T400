@@ -1,6 +1,6 @@
 # OpenBSD Home Server T400 Tutorial alpha 0.1 (Fast Version)
 
-**Autor:** retrobofh – `bofh@retro-technology.pl`
+**Autor:** retrobofh – `id3fix@retro-technology.pl`
 **Data:** 23.08.2025
 
 ---
